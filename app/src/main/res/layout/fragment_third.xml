@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wall"
+    android:orientation="vertical"
+    tools:context=".ThirdFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ImageView
+        android:id="@+id/ava"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_marginLeft="65dp"
+        android:layout_marginTop="125dp"
+        android:scaleType="centerInside"
+        android:src="@drawable/ava" />
+
+    <ImageView
+        android:id="@+id/name"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_marginLeft="65dp"
+        android:layout_marginTop="275dp"
+        android:scaleType="centerInside"
+        android:src="@drawable/name" />
+
+
+</RelativeLayout>

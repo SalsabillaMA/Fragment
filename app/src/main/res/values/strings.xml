@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="first_fragment">First fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="second_fragment">Fragment Second</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="third_fragment">Third Fragment</string>
+    <string name="definisi">Fragment adalah sebuah reuseable class yang mengimplement beberapa fitur sebuah Activity. Fragment biasanya dibuat sebagai bagian dari suatu antarmuka. Sebuah fragment harus berada di dalam sebuah activity, mereka tidak dapat berjalan sendiri tanpa adanya activity tempat mereka menempel.\n\n
+                            Kelebihan yang didapatkan bila menggunakan fragment adalah sebagai berikut:\n\n
+
+                            - Tidak perlu memasukkan nama file fragment ke dalam “AndroidManifest” yang diperlukan oleh activity.\n\n
+                            - Fungsi yang berada pada activity dapat langsung digunakan dalam fragment tersebut tanpa harus membuat ulang. Contoh: pada saat back, fragment hanya perlu memanggil fungsi “getactivity</string>
+    <string name="definisi2">Yang paling sering di override adalah onCreateView karena hampir setiap fragment memerlukan sebuah layout, onCreate saat ingin menginisialisasi data dan onActivityCreated untuk menyiapkan sesuatu saat Activity sudah sempurna dimuat.
+    </string>
+</resources>
