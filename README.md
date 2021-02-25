@@ -2,7 +2,7 @@
 
 Fragment adalah sebuah reuseable class yang mengimplement beberapa fitur sebuah Activity. Fragment biasanya dibuat sebagai bagian dari suatu antarmuka. Sebuah fragment harus berada di dalam sebuah activity, mereka tidak dapat berjalan sendiri tanpa adanya activity tempat mereka menempel.
 
-![alt text](Fragment/fragments.jpg)
+![alt text](Fragment/fragments.png)
 
 Contoh : bagaimana dua modul UI yang ditentukan oleh fragmen bisa digabungkan ke dalam satu aktivitas untuk desain tablet, namun dipisahkan untuk desain handset. 
 
@@ -37,7 +37,7 @@ Misalnya—untuk melanjutkan contoh aplikasi berita—aplikasi bisa menyematkan 
 
 > ### Urutan eksekusi lifecycle dapat dilihat pada gambar di bawah:
 
-![alt text](Fragment/lifecycle.jpg)
+![alt text](Fragment/lifecycle.png)
 
 Yang paling sering di override adalah onCreateView karena hampir setiap fragment akan memerlukan sebuah layout, onCreate saat ingin menginisialisasi data dan onActivityCreated untuk menyiapkan sesuatu saat Activity sudah sempurna dimuat.
 
