@@ -56,7 +56,7 @@ Untuk selengkapnya dapat dilihat [disini](https://www.codepolitan.com/membuat-da
 
 - Halaman 2
 
-![alt text](Fragment/fragment2.jpg)
+![alt text](Fragment/fragment.jpg)
 
 - Halaman 3
 
