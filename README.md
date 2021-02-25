@@ -46,7 +46,7 @@ Untuk selengkapnya dapat dilihat [disini](https://www.codepolitan.com/membuat-da
 # Hasil Praktikum Fragment
 
 
-![alt text](Fragment/fragment.gif)
+![alt text](fragment.gif)
 
 > ### Hasil Tiap Halaman
 
